@@ -1,1 +1,1 @@
-This codes describes the growth of three different E. coli strains, namely DH5α, GALG20 and MG1655
+This repository contains the codes that describes the growth of three different E. coli strains, namely DH5α, GALG20 and MG1655, which was devloped during the MSc thesis of Leonor Gundersen under the scope of the EU Project DIG4BIO.
